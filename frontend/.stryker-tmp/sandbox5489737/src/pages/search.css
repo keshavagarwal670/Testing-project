@@ -1,0 +1,58 @@
+/* search.css */
+
+.main_form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  margin-top: 7%;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+/* search.css */
+
+.form-label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #000; /* Black text color */
+  /* Add additional styling as needed */
+}
+
+
+.form-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.form-button:hover {
+  background-color: #0056b3;
+}
+
+.alumniSearch {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.alumniSearch th,
+.alumniSearch td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+
+.alumniSearch th {
+  background-color: #f2f2f2;
+}
+
+/* Add more styles as needed */
