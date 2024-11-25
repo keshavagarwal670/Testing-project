@@ -21,7 +21,7 @@ This project is a web-based **Alumni Registration Portal** developed to facilita
 - **Mutation Testing**: Integrated **Stryker** to perform mutation testing and assess the robustness of the code. 
   - **Mutation Score**: See the screenshot below for the mutation testing score using Stryker.
 
-![Mutation Score](path/to/screenshot.png)
+![Mutation Score](./screenshots/s2.png)
 
 ## Roles and Contributions
 1. **Keshav Agarwal (Roll Number: MT2023114)**
@@ -66,15 +66,6 @@ This project is a web-based **Alumni Registration Portal** developed to facilita
    - Frontend: `http://localhost:3000`
    - Backend API: `http://localhost:8080`
 
-## Screenshots
-### Login Page
-![Login Page](path/to/login-page-screenshot.png)
-
-### Search Alumni
-![Search Alumni](path/to/search-page-screenshot.png)
-
-### Mutation Testing Score
-![Mutation Score](path/to/screenshot.png)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
